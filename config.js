@@ -6,8 +6,8 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '2349031621258', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
+  ['2349031621258', 'Shizo Techie ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
@@ -19,18 +19,18 @@ global.bname = botname
 
 //Extra Shortcuts
 global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/JnBffMgpiCgBAra3GQC9rW'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/IfNkbCKNdKC0z7Gs4kddmZ'
  
 //Apikeys
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.packname = process.env.BOT_NAME || 'jujutsu 🥵'
+global.stkpack = process.env.BOT_NAME || 'jujutsu-BOT 🥵'
+global.stkowner = process.env.OWNER_NAME || '© Jujutsu Md'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with ❤️ by JUJUTSU-MD'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
